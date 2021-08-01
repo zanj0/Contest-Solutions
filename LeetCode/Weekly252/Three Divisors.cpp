@@ -10,3 +10,10 @@ public:
 		return rootVal * rootVal == n && isPrime(rootVal);
 	}
 };
+
+
+
+
+
+
+
