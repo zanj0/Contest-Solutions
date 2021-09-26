@@ -2,6 +2,7 @@ const int N = 1e5 + 5;
 vector<int> graph[N];
 int out[N], in[N], timer = 0;
 set <int> s;
+
 class Solution {
 public:
 	void dfs(int node, int par) {
